@@ -12,11 +12,17 @@ This project was coded with anaconda and Jupyter notebook
 ***Packages used***
 
 pandas as pd
+
 numpy as np
+
 matplotlib inline
+
 pyplot as plt
+
 seaborn as sns
+
 datetime, date, time
+
 plotly.express as px
 
 ***Data***
