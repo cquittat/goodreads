@@ -43,7 +43,7 @@ I did some pruning of the dataset on :
 - the text_reviews_count column 
 - the num_pages column (for this one I also replaced some values by the mean of the column)
 - the language_code column
-- 
+
 For the publication_date column I converted it into date format
 
 I added some answers to questions I was asking myself :
@@ -51,7 +51,7 @@ I added some answers to questions I was asking myself :
 -	What are the 10 most represented Publishers in the dataset?
 -	What are the 10 most represented Authors in the dataset?
 -	In average which language has the books with the more pages ?
--
+
 Then came the moment to prepare the dataset for Machine Learning:
 - I transformed language_codes in dummies variables
 - for the date part I only kept the years as integers
