@@ -7,8 +7,7 @@ Goodreads Books Rating Prediction Model
 Python 3.7.13 (default, Mar 28 2022, 08:03:21) [MSC v.1916 64 bit (AMD64)] :: Anaconda, Inc. on win32
 
 ***environment***
-This project was code
-d with anaconda and Jupyter notebook
+This project was coded with anaconda and Jupyter notebook
 
 ***Packages used***
 
